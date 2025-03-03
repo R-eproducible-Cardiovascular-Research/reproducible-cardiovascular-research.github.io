@@ -1,5 +1,5 @@
-publishDir: docs
 baseurl: /
+publishDir: docs
 languageCode: en-US
 title: A Hugo website
 theme: hugo-lithium
