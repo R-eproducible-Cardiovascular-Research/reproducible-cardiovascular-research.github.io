@@ -1,3 +1,4 @@
+publishDir: docs
 baseurl: /
 languageCode: en-US
 title: A Hugo website
