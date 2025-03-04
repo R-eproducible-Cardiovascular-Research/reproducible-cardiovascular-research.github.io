@@ -1,5 +1,5 @@
 Version: 1.0
-ProjectId: 
+ProjectId: 79f1f9a3-83e4-431b-aaad-c2b1d15c4bf0
 
 RestoreWorkspace: Default
 SaveWorkspace: Default
@@ -14,3 +14,5 @@ RnwWeave: knitr
 LaTeX: XeLaTeX
 
 AutoAppendNewline: Yes
+
+BuildType: Website
