@@ -6,8 +6,22 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 21:48:51 -0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 03 Mar 2025 21:48:51 -0700</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;This is a site for R programming language course.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>R History</title>
+      <link>/2025/03/04/r-history/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/2025/03/04/r-history/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hello R Markdown</title>
       <link>/2020/12/01/hello-r-markdown/</link>

@@ -5,6 +5,15 @@
     <loc>/</loc>
     <lastmod>2025-03-03T21:48:51-07:00</lastmod>
   </url><url>
+    <loc>/about/</loc>
+    <lastmod>2025-03-03T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2025/03/04/r-history/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
@@ -12,9 +21,6 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/categories/r/</loc>
