@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https:://reproducible-cardiovascular-research.github.io/
 publishDir: docs
 languageCode: en-US
 title: A Hugo website
